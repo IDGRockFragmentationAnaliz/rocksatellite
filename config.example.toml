@@ -3,5 +3,5 @@ initial-train-folders = [
     "path/to/folder_1",
     "path/to/folder_2"
 ]
-
-train-manifest = "path/to/train-manifest"
+initial-checkpoint-rcf = "initial-checkpoint/rcf_bsds500.pth"
+train-manifest = "path/to/train-manifest.lst"
