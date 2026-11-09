@@ -3,4 +3,5 @@ initial-train-folders = [
     "path/to/folder_1",
     "path/to/folder_2"
 ]
-train-folder = "path/to/train-folder"
+
+train-manifest = "path/to/train-manifest"
