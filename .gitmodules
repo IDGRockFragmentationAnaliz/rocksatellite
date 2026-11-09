@@ -1,3 +1,9 @@
 [submodule "rockedgesdetectors"]
 	path = rockedgesdetectors
 	url = https://github.com/Kolad2/rockedgesdetectors.git
+[submodule "pygradskeleton"]
+	path = pygradskeleton
+	url = https://github.com/IDGRockFragmentationAnaliz/pygradskeleton.git
+[submodule "rocknetmanager"]
+	path = rocknetmanager
+	url = https://github.com/IDGRockFragmentationAnaliz/rocknetmanager.git
