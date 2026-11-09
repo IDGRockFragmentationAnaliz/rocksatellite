@@ -1,0 +1,3 @@
+[submodule "rockedgesdetectors"]
+	path = rockedgesdetectors
+	url = https://github.com/Kolad2/rockedgesdetectors.git
